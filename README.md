@@ -1,4 +1,4 @@
-# Reaction Time Game – CS50 Week 0
+# Reaction Time Game
 
 This project is part of **CS50 – Harvard**, Week 0.  
 The goal is to create a simple Scratch game to practice programming logic, events, and variables.
